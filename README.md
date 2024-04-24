@@ -1,1 +1,1 @@
-[Descargar APK]([https://github.com/tu_usuario/tu_repositorio/raw/main/tu_archivo.apk](https://github.com/Juan-Romero-sgsas/apkRespel/blob/main/app-debug.apk))
+[Descargar APK]([https://github.com/Juan-Romero-sgsas/apkRespel/raw/main/app-debug.apk])
